@@ -1,5 +1,7 @@
 <h1>Hello 👋</h1>
--  Hi, I’m @Murat-Karakaya
+
+-  I’m @Murat-Karakaya
+-  I would be very happy to help you 🙂. So don't hesitate to ask a question.
 
 [![Murat-Karakaya's Github Status](https://github-readme-stats.vercel.app/api/?username=murat-karakaya&count_private=true&theme=tokyonight&showicons=true&hide=issues&rank_icon=github&include_all_commits=true)](https://github.com/ekinkaradag)
 
@@ -14,12 +16,12 @@
 
 <h3>Front End</h3>
 
-``JavaScript``, ``HTML``, ``CSS``, ``React``, ``Redux``, ``vite``, ``CORS``
+``JavaScript``, ``HTML``, ``CSS``, ``Bootstrap``, ``React``, ``Redux``, ``Vite``, ``CORS``
 
 
 <h3>Back End</h3>
 
-``express.js``, ``Clarifai``, ``cors module``, ``PostgreSQL``, ``SQL``, ``pgadmin``, ``knex.js``
+``express.js``, ``Clarifai``, ``cors module``, ``PostgreSQL``, ``SQL``, ``knex.js``
 
 
 <h2>📫 You can reach me by opening an issue or entering a discussion in this repository</h2>

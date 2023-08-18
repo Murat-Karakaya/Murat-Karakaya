@@ -23,5 +23,3 @@
 
 ``express.js``, ``Clarifai``, ``cors module``, ``PostgreSQL``, ``SQL``, ``knex.js``
 
-
-<h2>📫 You can reach me by opening an issue or entering a discussion in this repository</h2>

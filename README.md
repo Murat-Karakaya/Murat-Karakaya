@@ -3,7 +3,7 @@
 -  I’m @Murat-Karakaya
 -  I would be very happy to help you 🙂. So don't hesitate to ask a question.
 
-[![Murat-Karakaya's Github Status](https://github-readme-stats.vercel.app/api/?username=murat-karakaya&count_private=true&theme=tokyonight&showicons=true&hide=issues&rank_icon=github&include_all_commits=true)](https://github.com/ekinkaradag)
+[![Murat-Karakaya's Github Status](https://github-readme-stats.vercel.app/api/?username=murat-karakaya&count_private=true&theme=tokyonight&showicons=true&rank_icon=github&include_all_commits=true)](https://github.com/ekinkaradag)
 
 
 <h2>🖥️ Here are some technologies I am familiar with:</h2>

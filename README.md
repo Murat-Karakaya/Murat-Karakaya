@@ -25,4 +25,4 @@
 ``express.js``, ``PostgreSQL``, ``SQL``, ``knex.js``, ``encryption``
 
 <h2>How to reach me</h2>
-Just open an issue [here](https://github.com/Murat-Karakaya/robo-friends). 
+Just open an issue here => (https://github.com/Murat-Karakaya/robo-friends). 

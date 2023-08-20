@@ -1,10 +1,10 @@
 <h1>Hello 👋</h1>
 
 -  I’m @Murat-Karakaya
--  I would be very happy to help you 🙂. So don't hesitate to ask a question.
--  I do report bugs in other repos quite often. So if there is a website you want me to check for bugs Ill gladly check it for bugs. :D
+-  I would be very happy to help you 🙂. So don't hesitate to ask a question about coding.
+-  I do report bugs in other repos quite often. So if there is a website you want me to check for bugs I will gladly check it for bugs. :D
 
-[![Murat-Karakaya's Github Status](https://github-readme-stats.vercel.app/api/?username=murat-karakaya&count_private=true&theme=tokyonight&showicons=true&rank_icon=github&include_all_commits=true)](https://github.com/ekinkaradag)
+[![Murat-Karakaya's Github Status](https://github-readme-stats.vercel.app/api/?username=murat-karakaya&count_private=true&theme=tokyonight&showicons=true&rank_icon=github&include_all_commits=true)](https://github.com/murat-karakaya)
 
 
 <h2>🖥️ Here are some technologies I am familiar with:</h2>

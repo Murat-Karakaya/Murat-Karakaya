@@ -24,6 +24,3 @@
 
 ``express.js``, ``PostgreSQL``, ``SQL``, ``knex.js``, ``encryption``
 
-<h2>How to reach me</h2>
-
-Go [here](https://global-chat-platform.onrender.com/). 
